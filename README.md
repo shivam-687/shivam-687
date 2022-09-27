@@ -5,8 +5,6 @@ I am a fullstack web developer from india
 - 🌱 Learning design patterns in depth
 <br>
 
-[![@shivamsi687's Holopin board](https://holopin.io/api/user/board?user=shivamsi687)](https://holopin.io/@shivamsi687)
-
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivamsi687/)
@@ -23,3 +21,4 @@ I am a fullstack web developer from india
 <img align="left" alt="css" src="https://img.shields.io/badge/css-Love-yellowgreen" />
 <br>
 <br>
+[![@shivamsi687's Holopin board](https://holopin.io/api/user/board?user=shivamsi687)](https://holopin.io/@shivamsi687)
