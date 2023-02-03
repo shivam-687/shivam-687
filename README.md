@@ -13,12 +13,13 @@ I am a fullstack web developer from india
 <br>
 <br>
 ## Expertise
-<img align="left" alt="angular" src="https://img.shields.io/badge/Angular-Love-red" />
-<img align="left" alt="css" src="https://img.shields.io/badge/react-Love-blue" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/Javascript-Love-yellow" />
-<img align="left" alt="php" src="https://img.shields.io/badge/PHP-Love-blue" />
-<img align="left" alt="html" src="https://img.shields.io/badge/html-Love-blue" />
-<img align="left" alt="css" src="https://img.shields.io/badge/css-Love-yellowgreen" />
+<img align="left" alt="angular" src="https://img.shields.io/badge/Angular-Love-red?logo=angular" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react-Love-blue?logo=react" />
+<img align="left" alt="nextjs" src="https://img.shields.io/badge/next.js-Love-orange?logo=nextdotjs" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/Javascript-Love-yellow?logo=javascript" />
+<img align="left" alt="php" src="https://img.shields.io/badge/PHP-Love-blue?logo=php" />
+<img align="left" alt="html" src="https://img.shields.io/badge/html-Love-blue?logo=html5" />
+<img align="left" alt="css" src="https://img.shields.io/badge/css-Love-yellowgreen?logo=css3" />
 <br>
 <br>
-[![@shivamsi687's Holopin board](https://holopin.io/api/user/board?user=shivamsi687)](https://holopin.io/@shivamsi687)
+
