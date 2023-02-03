@@ -10,6 +10,8 @@ I am a fullstack web developer from india
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivamsi687/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100013939752083)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/shivam_687)
+[<img align="left" alt="upwork" src="https://img.shields.io/badge/UPWORK-%228c22.svg?&style=for-the-badge&logo=upwork&logoColor=white" />](https://www.upwork.com/freelancers/~0108a27459268ad168)
+[<img align="left" alt="interlef" src="https://img.shields.io/badge/Interlef-%8000de.svg?&style=for-the-badge" />](https://interlef.com)
 <br>
 <br>
 ## Expertise
