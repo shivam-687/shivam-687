@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a fullstack web developer from india
-- 🔭 Working on multiple frontend and backend project using Next.js, React, Nodejs, HTML, CSS, javascript
+- 🔭 Working on multiple frontend and backend project using Next.js, React, Nodejs, HTML, CSS, javascript, Typescript, TRPC, 
 - 🧑‍💼 i am the owner of [interlef web solutions](https://interlef.com)
 - 🌱 Dedicated to LEARN and APPLY.
 <br>
